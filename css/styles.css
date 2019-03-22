@@ -1,8 +1,9 @@
 body {
   /* background-color: grey; */
-  background-image: linear-gradient(rgba(172, 172, 172, 0.226), rgba(173, 173, 173, 0.233)), url(https://wallpaper.wiki/wp-content/uploads/2017/05/Download-HD-Abstract-Wallpapers.jpg);
+  background-image: url(https://cdn.wonderfulengineering.com/wp-content/uploads/2014/03/high-quality-wallpaper-7.jpg);
   background-size: cover;
-  color: rgb(0, 255, 191);
+  /* color: rgb(0, 255, 191); */
+  color: white; 
   font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
   display: flex;
   min-height: 100vh;
@@ -15,7 +16,7 @@ body {
 
 nav {
     color: lightblue;
-    background-color: yellow;
+    background-color: red;
     width: 100%;
     height: 56px;
     line-height: 56px;
@@ -75,7 +76,7 @@ a {
     align-items: center;
     padding: 10px 0px;
     color: black;
-    background-color: yellow;
+    background-color: red;
 }
 .skills-icons {
   display: flex;
